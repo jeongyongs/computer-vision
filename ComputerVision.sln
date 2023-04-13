@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice-2.4", "practice-2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice-3.1", "practice-3.1\practice-3.1.vcxproj", "{6F8800F0-7F0E-4B4E-8FA7-FB501B3BF0F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice-3.2", "practice-3.2\practice-3.2.vcxproj", "{CBF6EC5F-C342-4359-AE3B-CD5CEE027CA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -69,6 +71,10 @@ Global
 		{6F8800F0-7F0E-4B4E-8FA7-FB501B3BF0F9}.Debug|x64.Build.0 = Debug|x64
 		{6F8800F0-7F0E-4B4E-8FA7-FB501B3BF0F9}.Release|x64.ActiveCfg = Release|x64
 		{6F8800F0-7F0E-4B4E-8FA7-FB501B3BF0F9}.Release|x64.Build.0 = Release|x64
+		{CBF6EC5F-C342-4359-AE3B-CD5CEE027CA3}.Debug|x64.ActiveCfg = Debug|x64
+		{CBF6EC5F-C342-4359-AE3B-CD5CEE027CA3}.Debug|x64.Build.0 = Debug|x64
+		{CBF6EC5F-C342-4359-AE3B-CD5CEE027CA3}.Release|x64.ActiveCfg = Release|x64
+		{CBF6EC5F-C342-4359-AE3B-CD5CEE027CA3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
